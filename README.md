@@ -16,7 +16,7 @@ This project focuses on predicting credit card approval outcomes using advanced 
 In the realm of financial services, accurately predicting credit card approval is crucial. This project applies logistic regression, decision trees, support vector machines, and other sophisticated algorithms to analyze a dataset and predict approval outcomes based on demographic and financial data.
 
 ## Dataset
-The dataset consists of 438,557 observations and 18 variables, including demographic, financial, and employment information. It has been sourced from public data repositories and is utilized to understand credit card approval dynamics better. Details on handling missing values, outliers, and feature selection are included in the [project report]()
+The dataset consists of 438,557 observations and 18 variables, including demographic, financial, and employment information. It has been sourced from public data repositories and is utilized to understand credit card approval dynamics better. Details on handling missing values, outliers, and feature selection are included in the [project report](https://github.com/theyashtailor/credit-card-approval-prediction/blob/main/Credit%20Card%20Approval%20prediction.pdf)
 
 ## Algorithms Used
 - **Logistic Regression**: Used for its effectiveness in binary classification tasks.
